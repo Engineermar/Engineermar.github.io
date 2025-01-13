@@ -1,11 +1,12 @@
 # Site settings
-title: "From Data to Intelligence: My Journey Through DS, ML & AI"
-email: lamarhlyons@gmail.com
+title: "Lamar Lyons: From Data to Intelligence - A Journey Through DS, ML & AI"
+email: lamarlyons85@gmail.com
 description: "A Data Science and Machine Learning practitioner's exploration of advanced analytics, artificial intelligence, and computational methods"
 baseurl: ""
 url: "http://Engineermar.github.io"
 github_username: Engineermar
 linkedin_username: lamarhlyons
+about_page: "/about/"
 
 # Build settings
 markdown: kramdown
