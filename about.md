@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
-includelink: true
----
 
 # Bridging Theory and Practice in AI & Data Science
 
