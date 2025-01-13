@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: page
 title: About
@@ -41,4 +40,4 @@ I'm currently focused on:
 4. Contributing to open-source projects
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/lamarhlyons/) to learn more about my work and interests in data science, machine learning, and AI.
-```
+
