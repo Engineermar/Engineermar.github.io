@@ -5,4 +5,4 @@ permalink: /about/
 includelink: true
 ---
 
-See my [website](https://karpathy.ai/).
+See my Linkedin [website](https://www.linkedin.com/in/lamarhlyons/).
