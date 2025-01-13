@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Lamar Lyons
+permalink: /about/
+includelink: true
+---
 
 # Bridging Theory and Practice in AI & Data Science
 
@@ -33,5 +39,8 @@ I'm currently focused on:
 3. Creating scalable machine learning applications
 4. Contributing to open-source projects
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/lamarhlyons/) to learn more about my work and interests in data science, machine learning, and AI.
+## Contact
 
+- Email: [lamarlyons85@gmail.com](mailto:lamarlyons85@gmail.com)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/lamarhlyons/)
+- GitHub: [View my projects](https://github.com/Engineermar)
