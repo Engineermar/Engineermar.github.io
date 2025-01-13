@@ -1,7 +1,7 @@
 # Site settings
-title: From Data to Intelligence: My Journey Through DS, ML & AI
+title: "From Data to Intelligence: My Journey Through DS, ML & AI"
 email: lamarhlyons@gmail.com
-description: "A Data Science and Machine Learning practitioner's exploration of advanced analytics, artificial intelligence, and computational methods. This blog chronicles my journey from foundational R programming to cutting-edge applications in deep learning, natural language processing, and quantitative finance. Through hands-on projects and continuous learning, I demonstrate practical implementations of statistical modeling, machine learning algorithms, and AI-powered solutions across various domains."
+description: "A Data Science and Machine Learning practitioner's exploration of advanced analytics, artificial intelligence, and computational methods"
 baseurl: ""
 url: "http://Engineermar.github.io"
 github_username: Engineermar
